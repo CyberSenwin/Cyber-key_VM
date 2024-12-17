@@ -1,3 +1,5 @@
+Fake credit card side::
+Ccardgenerator.com
 
 Smadav key
 Name: MAX08
